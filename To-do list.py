@@ -1,14 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Hp
-#
-# Created:     05-07-2024
-# Copyright:   (c) Hp 2024
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
-
 class Task:
     def __init__(self, title, done=False):
         self.title = title
